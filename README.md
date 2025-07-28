@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Arthur Trindade
+# 💻 Arthur Trindade
 
 **`Desenvolvedor Back-end`**
 
