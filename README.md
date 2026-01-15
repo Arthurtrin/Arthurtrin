@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 Me chamo Arthur Trindade, tenho 20 anos e sou natural do Rio de Janeiro. Sou apaixonado da tecnologia, inovação e desenvolvimento de sistemas.
-Atualmente, curso Sistemas de Informação pela Universidade Estácio e já possuo experiência prática no desenvolvimento de aplicações web com Python e o framework Django, além de utilizar ferramentas como HTML, CSS, JavaScript, Bootstrap e Git/GitHub no desenvolvimento de interfaces e controle de versionamento.
+Atualmente, curso Sistemas de Informação pela Universidade Estácio e já possuo experiência prática no desenvolvimento de aplicações web com Python e o framework Django, além de utilizar ferramentas como HTML, CSS, Bootstrap e Git/GitHub no desenvolvimento de interfaces e controle de versionamento.
 
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/arthur-trindade-nunes/).
 📫 E-mail: arthurtrindade.dev@gmail.com
